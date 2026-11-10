@@ -1,0 +1,7 @@
+ticket_id,hospital,equipment,description,urgency,created_at
+AMC-2026-001,Demo Hospital North,Ventilator,Alarm panel shows a recurring sensor warning,high,2026-10-12T09:15:00+05:30
+AMC-2026-002,Demo Hospital South,Autoclave,Temperature display is intermittent,medium,2026-10-12T10:05:00+05:30
+AMC-2026-003,Demo Hospital East,Infusion Pump,Device does not complete its self-check,high,2026-10-12T11:20:00+05:30
+AMC-2026-004,Demo Hospital West,Patient Monitor,One channel is unavailable after restart,medium,2026-10-12T13:45:00+05:30
+AMC-2026-005,Demo Hospital Central,Portable X-Ray,Unit is not powering on,critical,2026-10-12T15:10:00+05:30
+AMC-2026-006,Demo Hospital North,Defibrillator,Battery indicator remains low after charging,low,2026-10-12T16:30:00+05:30
