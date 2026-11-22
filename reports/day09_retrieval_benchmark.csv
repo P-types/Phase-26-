@@ -1,0 +1,11 @@
+query,expected_manual,bm25_top1,bm25_hit3,bm25_rank,bm25_top_source,hybrid_top1,hybrid_hit3,hybrid_rank,hybrid_top_source
+ventilator alarm code V-01 sensor warning,ventilator,True,True,1,ventilator,True,True,1,ventilator
+What details should be logged for V-02 battery notice?,ventilator,True,True,1,ventilator,True,True,1,ventilator
+வெண்டிலேட்டர் பராமரிப்பு நினைவூட்டல் V-03,ventilator,True,True,1,ventilator,True,True,1,ventilator
+infusion pump flow notice P-11,infusion-pump,True,True,1,infusion-pump,True,True,1,infusion-pump
+இன்ஃப்யூஷன் பம்ப் கதவு சென்சார் P-12 timestamp asset ID,infusion-pump,True,True,1,infusion-pump,True,True,1,infusion-pump
+preserve the self-check message P-13,infusion-pump,True,True,1,infusion-pump,True,True,1,infusion-pump
+autoclave temperature notice code A-21,autoclave,True,True,1,autoclave,True,True,1,autoclave
+ஆட்டோகிளேவ் cycle notice A-22,autoclave,True,True,1,autoclave,True,True,1,autoclave
+autoclave maintenance reminder date A-23,autoclave,True,True,1,autoclave,True,True,1,autoclave
+வெப்பநிலை காட்சி autoclave training asset,autoclave,True,True,1,autoclave,True,True,1,autoclave

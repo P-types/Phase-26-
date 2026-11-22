@@ -1,0 +1,21 @@
+query,expected_manual,strategy,expected_rank_at_3,hit_at_3,top_sources
+ventilator alarm code V-01 sensor warning,ventilator,fixed_300_overlap_60,1,True,ventilator|infusion-pump
+ventilator alarm code V-01 sensor warning,ventilator,paragraph_max_420,1,True,ventilator|infusion-pump
+What details should be logged for V-02 battery notice?,ventilator,fixed_300_overlap_60,1,True,ventilator|autoclave
+What details should be logged for V-02 battery notice?,ventilator,paragraph_max_420,1,True,ventilator|infusion-pump|autoclave
+வெண்டிலேட்டர் பராமரிப்பு நினைவூட்டல் V-03,ventilator,fixed_300_overlap_60,1,True,ventilator
+வெண்டிலேட்டர் பராமரிப்பு நினைவூட்டல் V-03,ventilator,paragraph_max_420,1,True,ventilator|autoclave
+infusion pump flow notice P-11,infusion-pump,fixed_300_overlap_60,1,True,infusion-pump
+infusion pump flow notice P-11,infusion-pump,paragraph_max_420,1,True,infusion-pump|autoclave
+இன்ஃப்யூஷன் பம்ப் கதவு சென்சார் P-12 timestamp asset ID,infusion-pump,fixed_300_overlap_60,1,True,infusion-pump
+இன்ஃப்யூஷன் பம்ப் கதவு சென்சார் P-12 timestamp asset ID,infusion-pump,paragraph_max_420,1,True,infusion-pump|autoclave
+preserve the self-check message P-13,infusion-pump,fixed_300_overlap_60,1,True,infusion-pump|autoclave
+preserve the self-check message P-13,infusion-pump,paragraph_max_420,1,True,infusion-pump|autoclave|ventilator
+autoclave temperature notice code A-21,autoclave,fixed_300_overlap_60,1,True,autoclave|ventilator
+autoclave temperature notice code A-21,autoclave,paragraph_max_420,1,True,autoclave|infusion-pump
+ஆட்டோகிளேவ் cycle notice A-22,autoclave,fixed_300_overlap_60,1,True,autoclave|ventilator
+ஆட்டோகிளேவ் cycle notice A-22,autoclave,paragraph_max_420,1,True,autoclave|infusion-pump
+autoclave maintenance reminder date A-23,autoclave,fixed_300_overlap_60,1,True,autoclave|ventilator
+autoclave maintenance reminder date A-23,autoclave,paragraph_max_420,1,True,autoclave|ventilator
+வெப்பநிலை காட்சி autoclave training asset,autoclave,fixed_300_overlap_60,1,True,autoclave|infusion-pump
+வெப்பநிலை காட்சி autoclave training asset,autoclave,paragraph_max_420,1,True,autoclave|ventilator

@@ -1,0 +1,10 @@
+{"query":"ventilator alarm code V-01 sensor warning","expected_manual":"ventilator"}
+{"query":"What details should be logged for V-02 battery notice?","expected_manual":"ventilator"}
+{"query":"வெண்டிலேட்டர் பராமரிப்பு நினைவூட்டல் V-03","expected_manual":"ventilator"}
+{"query":"infusion pump flow notice P-11","expected_manual":"infusion-pump"}
+{"query":"இன்ஃப்யூஷன் பம்ப் கதவு சென்சார் P-12 timestamp asset ID","expected_manual":"infusion-pump"}
+{"query":"preserve the self-check message P-13","expected_manual":"infusion-pump"}
+{"query":"autoclave temperature notice code A-21","expected_manual":"autoclave"}
+{"query":"ஆட்டோகிளேவ் cycle notice A-22","expected_manual":"autoclave"}
+{"query":"autoclave maintenance reminder date A-23","expected_manual":"autoclave"}
+{"query":"வெப்பநிலை காட்சி autoclave training asset","expected_manual":"autoclave"}

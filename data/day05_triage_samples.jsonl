@@ -1,0 +1,20 @@
+{"id":"T01","complaint":"Ventilator alarm keeps repeating after a restart.","expected_equipment":"ventilator","expected_urgency":"high"}
+{"id":"T02","complaint":"Ventilator will not power on during the demo check.","expected_equipment":"ventilator","expected_urgency":"critical"}
+{"id":"T03","complaint":"Ventilator preventive maintenance is due next month.","expected_equipment":"ventilator","expected_urgency":"low"}
+{"id":"T04","complaint":"Patient monitor has no power after restart.","expected_equipment":"patient monitor","expected_urgency":"high"}
+{"id":"T05","complaint":"Patient monitor channel is unavailable intermittently.","expected_equipment":"patient monitor","expected_urgency":"medium"}
+{"id":"T06","complaint":"Patient monitor display is cracked and unreadable.","expected_equipment":"patient monitor","expected_urgency":"high"}
+{"id":"T07","complaint":"Defibrillator battery is low after charging.","expected_equipment":"defibrillator","expected_urgency":"high"}
+{"id":"T08","complaint":"Defibrillator self-test failed and unit is unavailable.","expected_equipment":"defibrillator","expected_urgency":"critical"}
+{"id":"T09","complaint":"Defibrillator status light flickers occasionally.","expected_equipment":"defibrillator","expected_urgency":"medium"}
+{"id":"T10","complaint":"Infusion pump stopped and reports a flow alarm.","expected_equipment":"infusion pump","expected_urgency":"critical"}
+{"id":"T11","complaint":"Infusion pump flow is slower than the configured demo rate.","expected_equipment":"infusion pump","expected_urgency":"high"}
+{"id":"T12","complaint":"Infusion pump door sensor warning appears intermittently.","expected_equipment":"infusion pump","expected_urgency":"medium"}
+{"id":"T13","complaint":"Autoclave temperature did not reach the demo target.","expected_equipment":"autoclave","expected_urgency":"high"}
+{"id":"T14","complaint":"Autoclave display is blank and the cycle cannot start.","expected_equipment":"autoclave","expected_urgency":"critical"}
+{"id":"T15","complaint":"Autoclave maintenance reminder is due next week.","expected_equipment":"autoclave","expected_urgency":"low"}
+{"id":"T16","complaint":"Portable X-ray unit will not power on.","expected_equipment":"portable x-ray","expected_urgency":"high"}
+{"id":"T17","complaint":"Portable X-ray demo image looks blurry.","expected_equipment":"portable x-ray","expected_urgency":"medium"}
+{"id":"T18","complaint":"Portable X-ray unit is unavailable and shows a critical fault.","expected_equipment":"portable x-ray","expected_urgency":"critical"}
+{"id":"T19","complaint":"Equipment label is slightly worn; no warning is shown.","expected_equipment":"unknown","expected_urgency":"low"}
+{"id":"T20","complaint":"Ventilator shows an urgent service warning but remains on.","expected_equipment":"ventilator","expected_urgency":"high"}

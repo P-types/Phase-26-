@@ -1,0 +1,30 @@
+{"id": "G01", "question": "What should a trainee save for ventilator code V-01?", "expected_manual": "ventilator", "expected_keywords": ["sensor", "warning", "code"]}
+{"id": "G02", "question": "What does fictional ventilator code V-02 refer to?", "expected_manual": "ventilator", "expected_keywords": ["battery", "notice"]}
+{"id": "G03", "question": "How should a ventilator maintenance reminder be logged?", "expected_manual": "ventilator", "expected_keywords": ["reminder", "date", "demo log"]}
+{"id": "G04", "question": "What is recorded for the ventilator power indicator?", "expected_manual": "ventilator", "expected_keywords": ["external indicator", "on", "off"]}
+{"id": "G05", "question": "Which details belong in a ventilator service record?", "expected_manual": "ventilator", "expected_keywords": ["asset id", "timestamp", "code"]}
+{"id": "G06", "question": "Where should an unresolved ventilator demo alert go?", "expected_manual": "ventilator", "expected_keywords": ["training facilitator"]}
+{"id": "G07", "question": "Is the ventilator training PDF operating guidance?", "expected_manual": "ventilator", "expected_keywords": ["not operating guidance"]}
+{"id": "G08", "question": "What does code V-03 represent?", "expected_manual": "ventilator", "expected_keywords": ["maintenance reminder"]}
+{"id": "G09", "question": "Which timestamp and symptom data should be saved for a ventilator ticket?", "expected_manual": "ventilator", "expected_keywords": ["timestamp", "observed symptom"]}
+{"id": "G10", "question": "What is the safe boundary for real ventilator procedures?", "expected_manual": "ventilator", "expected_keywords": ["authorized personnel", "procedures"]}
+{"id": "G11", "question": "What should be recorded for infusion pump code P-11?", "expected_manual": "infusion-pump", "expected_keywords": ["flow notice", "authorized review"]}
+{"id": "G12", "question": "What does infusion pump code P-12 mean in the demo?", "expected_manual": "infusion-pump", "expected_keywords": ["door sensor", "timestamp", "asset id"]}
+{"id": "G13", "question": "What should a technician review for pump code P-13?", "expected_manual": "infusion-pump", "expected_keywords": ["self-check", "message"]}
+{"id": "G14", "question": "How should the infusion pump status panel be copied?", "expected_manual": "infusion-pump", "expected_keywords": ["displayed text", "demo ticket"]}
+{"id": "G15", "question": "What details should be in the infusion pump service record?", "expected_manual": "infusion-pump", "expected_keywords": ["asset id", "timestamp", "observed symptom"]}
+{"id": "G16", "question": "Should settings be changed based on this pump sample?", "expected_manual": "infusion-pump", "expected_keywords": ["do not change settings"]}
+{"id": "G17", "question": "Who reviews unresolved pump demo alerts?", "expected_manual": "infusion-pump", "expected_keywords": ["training facilitator"]}
+{"id": "G18", "question": "What should be preserved for an infusion-pump self-check notice?", "expected_manual": "infusion-pump", "expected_keywords": ["message", "technician"]}
+{"id": "G19", "question": "Where should the pump alert code and timestamp be copied?", "expected_manual": "infusion-pump", "expected_keywords": ["synthetic ticket"]}
+{"id": "G20", "question": "Is the infusion-pump manual real clinical guidance?", "expected_manual": "infusion-pump", "expected_keywords": ["not operating guidance"]}
+{"id": "G21", "question": "How should the autoclave temperature notice A-21 be handled?", "expected_manual": "autoclave", "expected_keywords": ["temperature notice", "record the value"]}
+{"id": "G22", "question": "What should be saved for autoclave code A-22?", "expected_manual": "autoclave", "expected_keywords": ["cycle notice", "displayed message"]}
+{"id": "G23", "question": "How is the autoclave maintenance reminder recorded?", "expected_manual": "autoclave", "expected_keywords": ["reminder date", "demo log"]}
+{"id": "G24", "question": "What should be recorded from the autoclave display?", "expected_manual": "autoclave", "expected_keywords": ["visible value", "timestamp", "asset id"]}
+{"id": "G25", "question": "What information belongs in an autoclave service record?", "expected_manual": "autoclave", "expected_keywords": ["asset id", "timestamp", "code"]}
+{"id": "G26", "question": "Who should follow real autoclave procedures?", "expected_manual": "autoclave", "expected_keywords": ["authorized personnel"]}
+{"id": "G27", "question": "Who handles an unresolved autoclave demo alert?", "expected_manual": "autoclave", "expected_keywords": ["training facilitator"]}
+{"id": "G28", "question": "What does fictional autoclave code A-23 mean?", "expected_manual": "autoclave", "expected_keywords": ["maintenance reminder"]}
+{"id": "G29", "question": "What should be preserved for an autoclave cycle notice?", "expected_manual": "autoclave", "expected_keywords": ["displayed message", "technician"]}
+{"id": "G30", "question": "Are these autoclave instructions for real-device operation?", "expected_manual": "autoclave", "expected_keywords": ["not operating guidance"]}

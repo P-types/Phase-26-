@@ -1,0 +1,10 @@
+{"query": "How do I record the ventilator alarm code?", "expected_id": "FAQ002"}
+{"query": "What should I log for a patient monitor power indicator?", "expected_id": "FAQ011"}
+{"query": "Defibrillator battery notice handling", "expected_id": "FAQ023"}
+{"query": "Infusion pump maintenance reminder date", "expected_id": "FAQ034"}
+{"query": "Autoclave safe escalation for an unresolved alert", "expected_id": "FAQ049"}
+{"query": "வெண்டிலேட்டர் அலாரம் குறியீடு", "expected_id": "FAQ002"}
+{"query": "ஆட்டோகிளேவ் வெப்பநிலை எச்சரிக்கை", "expected_id": "FAQ048"}
+{"query": "How to save a self-check message for the infusion pump?", "expected_id": "FAQ037"}
+{"query": "Patient monitor unavailable channel", "expected_id": "FAQ016"}
+{"query": "What is the training boundary for a defibrillator?", "expected_id": "FAQ030"}

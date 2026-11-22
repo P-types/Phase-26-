@@ -1,0 +1,11 @@
+query,expected_id,top1_id,expected_rank,hit_at_3
+How do I record the ventilator alarm code?,FAQ002,FAQ008,2,True
+What should I log for a patient monitor power indicator?,FAQ011,FAQ014,2,True
+Defibrillator battery notice handling,FAQ023,FAQ023,1,True
+Infusion pump maintenance reminder date,FAQ034,FAQ034,1,True
+Autoclave safe escalation for an unresolved alert,FAQ049,FAQ049,1,True
+வெண்டிலேட்டர் அலாரம் குறியீடு,FAQ002,FAQ012,2,True
+ஆட்டோகிளேவ் வெப்பநிலை எச்சரிக்கை,FAQ048,FAQ042,2,True
+How to save a self-check message for the infusion pump?,FAQ037,FAQ037,1,True
+Patient monitor unavailable channel,FAQ016,FAQ016,1,True
+What is the training boundary for a defibrillator?,FAQ030,FAQ010,2,True

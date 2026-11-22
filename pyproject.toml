@@ -11,6 +11,11 @@ dependencies = [
 [project.scripts]
 ai-studio-internship = "ai_studio_internship:main"
 ticket-import = "ai_studio_internship.tickets:main"
+studio-chat = "ai_studio_internship.llm:main"
+ticket-triage = "ai_studio_internship.triager:main"
+faq-search = "ai_studio_internship.search:main"
+manual-ingest = "ai_studio_internship.ingestion:main"
+rag-evaluate = "ai_studio_internship.evaluation:main"
 
 [build-system]
 requires = ["uv_build>=0.13.7,<0.14.0"]

@@ -1,0 +1,21 @@
+id,complaint,expected_equipment,actual_equipment,equipment_match,expected_urgency,actual_urgency,urgency_match,schema_valid
+T01,Ventilator alarm keeps repeating after a restart.,ventilator,ventilator,True,high,high,True,True
+T02,Ventilator will not power on during the demo check.,ventilator,ventilator,True,critical,high,False,True
+T03,Ventilator preventive maintenance is due next month.,ventilator,ventilator,True,low,low,True,True
+T04,Patient monitor has no power after restart.,patient monitor,patient monitor,True,high,high,True,True
+T05,Patient monitor channel is unavailable intermittently.,patient monitor,patient monitor,True,medium,critical,False,True
+T06,Patient monitor display is cracked and unreadable.,patient monitor,patient monitor,True,high,high,True,True
+T07,Defibrillator battery is low after charging.,defibrillator,defibrillator,True,high,high,True,True
+T08,Defibrillator self-test failed and unit is unavailable.,defibrillator,defibrillator,True,critical,critical,True,True
+T09,Defibrillator status light flickers occasionally.,defibrillator,defibrillator,True,medium,medium,True,True
+T10,Infusion pump stopped and reports a flow alarm.,infusion pump,infusion pump,True,critical,critical,True,True
+T11,Infusion pump flow is slower than the configured demo rate.,infusion pump,infusion pump,True,high,high,True,True
+T12,Infusion pump door sensor warning appears intermittently.,infusion pump,infusion pump,True,medium,high,False,True
+T13,Autoclave temperature did not reach the demo target.,autoclave,autoclave,True,high,high,True,True
+T14,Autoclave display is blank and the cycle cannot start.,autoclave,autoclave,True,critical,high,False,True
+T15,Autoclave maintenance reminder is due next week.,autoclave,autoclave,True,low,low,True,True
+T16,Portable X-ray unit will not power on.,portable x-ray,portable x-ray,True,high,high,True,True
+T17,Portable X-ray demo image looks blurry.,portable x-ray,portable x-ray,True,medium,medium,True,True
+T18,Portable X-ray unit is unavailable and shows a critical fault.,portable x-ray,portable x-ray,True,critical,critical,True,True
+T19,Equipment label is slightly worn; no warning is shown.,unknown,unknown,True,low,high,False,True
+T20,Ventilator shows an urgent service warning but remains on.,ventilator,ventilator,True,high,high,True,True

@@ -1,0 +1,49 @@
+%PDF-1.4
+% synthetic training file
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Length 910 >>
+stream
+BT
+/F1 10 Tf
+48 790 Td
+14 TL
+(DEMO MANUAL: INFUSION PUMP TRAINING ASSET) Tj T*
+(This fictional document is for software retrieval practice only.) Tj T*
+(It is not operating guidance and must never be used on a real device.) Tj T*
+(Overview: the demo asset records a flow status, door sensor and service note.) Tj T*
+(Status panel: copy the displayed text exactly into the demo ticket.) Tj T*
+(Alarm table \(fictional training labels\):) Tj T*
+(Code P-11 | flow notice | record the code; request authorized review.) Tj T*
+(Code P-12 | door sensor notice | note the timestamp and asset ID.) Tj T*
+(Code P-13 | self-check notice | preserve the message for a technician.) Tj T*
+(Service record: include asset ID, timestamp, code and observed symptom.) Tj T*
+(Safety boundary: do not change settings based on this training sample.) Tj T*
+(Support: route unresolved demo alerts to the training facilitator.) Tj T*
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000035 00000 n 
+0000000084 00000 n 
+0000000141 00000 n 
+0000000267 00000 n 
+0000000337 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1298
+%%EOF

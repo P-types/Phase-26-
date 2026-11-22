@@ -1,0 +1,31 @@
+id,question,expected_manual,top_source,expected_rank,context_precision_proxy,context_recall_at_3,answer_relevancy_proxy,faithfulness_proxy
+G01,What should a trainee save for ventilator code V-01?,ventilator,ventilator,1,1.0,1,1.0,1
+G02,What does fictional ventilator code V-02 refer to?,ventilator,ventilator,1,1.0,1,1.0,1
+G03,How should a ventilator maintenance reminder be logged?,ventilator,autoclave,2,0.5,1,0.75,1
+G04,What is recorded for the ventilator power indicator?,ventilator,ventilator,1,1.0,1,0.75,1
+G05,Which details belong in a ventilator service record?,ventilator,ventilator,1,1.0,1,0.5,1
+G06,Where should an unresolved ventilator demo alert go?,ventilator,autoclave,3,0.333,1,0.0,1
+G07,Is the ventilator training PDF operating guidance?,ventilator,ventilator,1,1.0,1,1.0,1
+G08,What does code V-03 represent?,ventilator,ventilator,1,1.0,1,1.0,1
+G09,Which timestamp and symptom data should be saved for a ventilator ticket?,ventilator,infusion-pump,2,0.5,1,0.0,1
+G10,What is the safe boundary for real ventilator procedures?,ventilator,ventilator,1,1.0,1,0.0,1
+G11,What should be recorded for infusion pump code P-11?,infusion-pump,infusion-pump,1,1.0,1,0.75,1
+G12,What does infusion pump code P-12 mean in the demo?,infusion-pump,infusion-pump,1,1.0,1,0.8,1
+G13,What should a technician review for pump code P-13?,infusion-pump,infusion-pump,1,1.0,1,1.0,1
+G14,How should the infusion pump status panel be copied?,infusion-pump,infusion-pump,1,1.0,1,0.75,1
+G15,What details should be in the infusion pump service record?,infusion-pump,infusion-pump,1,1.0,1,0.2,1
+G16,Should settings be changed based on this pump sample?,infusion-pump,infusion-pump,1,1.0,1,1.0,1
+G17,Who reviews unresolved pump demo alerts?,infusion-pump,autoclave,3,0.333,1,0.5,1
+G18,What should be preserved for an infusion-pump self-check notice?,infusion-pump,infusion-pump,1,1.0,1,0.5,1
+G19,Where should the pump alert code and timestamp be copied?,infusion-pump,autoclave,2,0.5,1,0.0,1
+G20,Is the infusion-pump manual real clinical guidance?,infusion-pump,infusion-pump,1,1.0,1,0.0,1
+G21,How should the autoclave temperature notice A-21 be handled?,autoclave,autoclave,1,1.0,1,0.8,1
+G22,What should be saved for autoclave code A-22?,autoclave,autoclave,1,1.0,1,1.0,1
+G23,How is the autoclave maintenance reminder recorded?,autoclave,autoclave,1,1.0,1,0.75,1
+G24,What should be recorded from the autoclave display?,autoclave,autoclave,1,1.0,1,0.6,1
+G25,What information belongs in an autoclave service record?,autoclave,autoclave,1,1.0,1,0.25,1
+G26,Who should follow real autoclave procedures?,autoclave,autoclave,1,1.0,1,1.0,1
+G27,Who handles an unresolved autoclave demo alert?,autoclave,autoclave,1,1.0,1,0.5,1
+G28,What does fictional autoclave code A-23 mean?,autoclave,autoclave,1,1.0,1,0.0,1
+G29,What should be preserved for an autoclave cycle notice?,autoclave,autoclave,1,1.0,1,0.0,1
+G30,Are these autoclave instructions for real-device operation?,autoclave,autoclave,1,1.0,1,1.0,1
