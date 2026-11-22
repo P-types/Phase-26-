@@ -56,7 +56,15 @@ Provider-backed chat and triage require an approved OpenAI-compatible endpoint a
 
 ## Local configuration
 
-Copy `.env.example` to `.env` and fill only the keys for the provider approved by your mentor. `.env` is ignored by Git. Never put API keys in source files, notebooks, screenshots, or commits. Do not send real hospital, payment, or client data to a model provider.
+Copy `.env.example` to `.env` and fill the key, model ID, and base URL for a provider approved by your mentor. The project reads environment variables but does not load `.env` automatically. In Bash, load it before a live command with:
+
+```bash
+set -a
+source .env
+set +a
+```
+
+See [`docs/day03-12-resources.md`](docs/day03-12-resources.md#free-modelapi-options-for-practice) for current free and local model options. `.env` is ignored by Git. Never put API keys in source files, notebooks, screenshots, or commits. Do not send real hospital, payment, or client data to a model provider.
 
 ## Git workflow
 
